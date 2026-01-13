@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "latte（feat. 詩歩）",
+  "base_artist": "Room97",
+  "createdAt": "2026-01-13T18:02:05.280974Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "LATTE (feat. Maria Becerra)",
+      "artist": "The Academy: Segunda Misión feat. Dalex, Lenny Tavárez, Sech, Justin Quiles, Dímelo Flow & Maria Becerra",
+      "has_synced": true,
+      "path": "select/01_LATTE_(feat._Maria_Becerra)_The_Academy__Segunda_Misión_feat._Dalex,_Lenny_Tavárez,_Sech,_Justin_Quiles,_Dím.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "LATTE (feat. Maria Becerra)",
+      "artist": "The Academy: Segunda Misión",
+      "has_synced": false,
+      "path": "select/02_LATTE_(feat._Maria_Becerra)_The_Academy__Segunda_Misión.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "LATTE (feat. Maria Becerra)",
+      "artist": "Sech",
+      "has_synced": true,
+      "path": "select/03_LATTE_(feat._Maria_Becerra)_Sech.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "LATTE (feat. Maria Becerra)",
+      "artist": "The Academy: Segunda Misión, Dalex, Lenny Tavárez & Sech",
+      "has_synced": true,
+      "path": "select/04_LATTE_(feat._Maria_Becerra)_The_Academy__Segunda_Misión,_Dalex,_Lenny_Tavárez_&_Sech.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "LATTE (feat. Maria Becerra)",
+      "artist": "Lenny Tavárez",
+      "has_synced": true,
+      "path": "select/05_LATTE_(feat._Maria_Becerra)_Lenny_Tavárez.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "FATTI riMANDARE DALLA MAMMA A PRENDERE IL LATTE (feat. sangiovanni)",
+      "artist": "Gianni Morandi",
+      "has_synced": true,
+      "path": "select/06_FATTI_riMANDARE_DALLA_MAMMA_A_PRENDERE_IL_LATTE_(feat._sangiovanni)_Gianni_Morandi.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "LATTE (feat. Maria Becerra)",
+      "artist": "The Academy: Segunda Misión",
+      "has_synced": true,
+      "path": "select/07_LATTE_(feat._Maria_Becerra)_The_Academy__Segunda_Misión.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "CHOCO-LATTE (feat. SARA CORTEZ)",
+      "artist": "FPB LAW$",
+      "has_synced": false,
+      "path": "select/08_CHOCO-LATTE_(feat._SARA_CORTEZ)_FPB_LAW$.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Latte (feat. SEAVENmusic)",
+      "artist": "Upreal",
+      "has_synced": false,
+      "path": "select/09_Latte_(feat._SEAVENmusic)_Upreal.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "FATTI riMANDARE DALLA MAMMA A PRENDERE IL LATTE (feat. sangiovanni)",
+      "artist": "Gianni Morandi/sangiovanni",
+      "has_synced": true,
+      "path": "select/10_FATTI_riMANDARE_DALLA_MAMMA_A_PRENDERE_IL_LATTE_(feat._sangiovanni)_Gianni_Morandi_sangiovanni.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "LATTE (feat. Maria Becerra)",
+      "artist": "The Academy: Segunda Misión; Dímelo Flow",
+      "has_synced": true,
+      "path": "select/11_LATTE_(feat._Maria_Becerra)_The_Academy__Segunda_Misión;_Dímelo_Flow.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "latte (feat. 詩歩)",
+      "artist": "Room97",
+      "has_synced": false,
+      "path": "select/pl_01_latte_(feat._詩歩)_Room97.txt"
+    }
+  ]
+}
